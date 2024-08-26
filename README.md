@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center"><img  width="100px" src=""></p>
 
-<!--
-**BurakYagizKayabasi/BurakYagizKayabasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi , I am Burak Yagiz Kayabasi </h1>
 
-Here are some ideas to get you started:
+<p align="center" width="250px"></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egemenkaraman&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=egemenkaraman&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=egemenkaraman&theme=chartreuse-dark"></p>
+
+### :link: &nbsp;Connect with me
+
+<p align="center">
+<a href="mailto:burakygz46@gmail.com"><img src="https://img.shields.io/badge/-burakygz46@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/byagizkayabasi"><img src="https://img.shields.io/badge/-byagizkayabasi-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/burak-kayaba%C5%9F%C4%B1-67a5b4276/"><img src="https://img.shields.io/badge/-Burak-Yagiz-Kaybasi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+</p>
